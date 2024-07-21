@@ -3,17 +3,16 @@ body{
 }
 h1{
     color: white;
-    padding-left: 45%;
 }
 p{
 
     color: white;
-    padding-left: 390px;
 }
-img{
-    padding-left: 290px;
-    padding-top: 20px;
-}
+.imag{
+    border: 5px solid white;
+    width: 50%;
+    height: auto;
+  }
 .posa{
     text-align: center;
 }
