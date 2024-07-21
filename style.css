@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    padding-left: 45%;
+}
+p{
+
+    color: white;
+    padding-left: 390px;
+}
+img{
+    padding-left: 290px;
+    padding-top: 20px;
+}
+.posa{
+    text-align: center;
+}
